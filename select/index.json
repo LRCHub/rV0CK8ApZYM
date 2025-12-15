@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "On Your Side",
+  "base_artist": "Superfly",
+  "createdAt": "2025-12-15T11:58:59.807669Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Time On Your Side",
+      "artist": "Mat Zo feat. Janai",
+      "has_synced": true,
+      "path": "select/01_Time_On_Your_Side_Mat_Zo_feat._Janai.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Time On Your Side (Feat. Janai)",
+      "artist": "Mat Zo",
+      "has_synced": true,
+      "path": "select/02_Time_On_Your_Side_(Feat._Janai)_Mat_Zo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "You're Gonna Need Someone On Your Side",
+      "artist": "Morrissey",
+      "has_synced": true,
+      "path": "select/03_You're_Gonna_Need_Someone_On_Your_Side_Morrissey.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "On Your Side",
+      "artist": "Jacques Greene feat. How To Dress Well",
+      "has_synced": false,
+      "path": "select/04_On_Your_Side_Jacques_Greene_feat._How_To_Dress_Well.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "On Your Side (feat. How to dress well)",
+      "artist": "Jacques Greene",
+      "has_synced": false,
+      "path": "select/05_On_Your_Side_(feat._How_to_dress_well)_Jacques_Greene.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Back On Your Side",
+      "artist": "Chris Isaak",
+      "has_synced": true,
+      "path": "select/06_Back_On_Your_Side_Chris_Isaak.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "NASA Is On Your Side",
+      "artist": "Everything Everything",
+      "has_synced": true,
+      "path": "select/07_NASA_Is_On_Your_Side_Everything_Everything.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Time On Your Side",
+      "artist": "Emily Jane White",
+      "has_synced": true,
+      "path": "select/08_Time_On_Your_Side_Emily_Jane_White.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I'm On Your Side",
+      "artist": "Peter Murphy",
+      "has_synced": true,
+      "path": "select/09_I'm_On_Your_Side_Peter_Murphy.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Love On Your Side",
+      "artist": "Thompson Twins",
+      "has_synced": false,
+      "path": "select/10_Love_On_Your_Side_Thompson_Twins.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Love On Your Side (No Talkin') - 12\" Version",
+      "artist": "Thompson Twins",
+      "has_synced": false,
+      "path": "select/11_Love_On_Your_Side_(No_Talkin')_-_12__Version_Thompson_Twins.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Love on Your Side (No Talkin’) (12″ version)",
+      "artist": "Thompson Twins",
+      "has_synced": false,
+      "path": "select/12_Love_on_Your_Side_(No_Talkin’)_(12′′_version)_Thompson_Twins.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "God Was Never on Your Side",
+      "artist": "Motörhead",
+      "has_synced": true,
+      "path": "select/13_God_Was_Never_on_Your_Side_Motörhead.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Always On Your Side",
+      "artist": "Sheryl Crow",
+      "has_synced": true,
+      "path": "select/14_Always_On_Your_Side_Sheryl_Crow.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I'm On Your Side",
+      "artist": "María Mena",
+      "has_synced": true,
+      "path": "select/15_I'm_On_Your_Side_María_Mena.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "On Your Side",
+      "artist": "Madrugada",
+      "has_synced": true,
+      "path": "select/16_On_Your_Side_Madrugada.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Who’s on Your Side",
+      "artist": "Pennywise",
+      "has_synced": true,
+      "path": "select/17_Who’s_on_Your_Side_Pennywise.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "On Your Side",
+      "artist": "Goo Goo Dolls",
+      "has_synced": true,
+      "path": "select/18_On_Your_Side_Goo_Goo_Dolls.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "On Your Side",
+      "artist": "Superfly",
+      "has_synced": false,
+      "path": "select/pl_01_On_Your_Side_Superfly.txt"
+    }
+  ]
+}
